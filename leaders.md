@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Nipun Negi](mailto:nipun.negi@owasp.org)
+* [NC Brintha](mailto:nc.brintha@owasp.org)
+* [Faizan Manzoor](mailto:faizan.manzoor@owasp.org)
