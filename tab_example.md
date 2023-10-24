@@ -4,10 +4,10 @@ displaytext: Blogs/Posts
 layout: null
 tab: true
 order: 2
-tags: OWASP TIET
+tags: OWASP KARE
 ---
 
-## **OWASP TIET Chapter Blogs and Articles**
+## **OWASP KARE Chapter Blogs and Articles**
 ## Want to be a Technical Writer?
 Reachout to us over mail or any other platform, If you want to contribute on making digital contents related to Information Security and Awareness, Hackathons And So On... 
 
