@@ -8,7 +8,7 @@ meetup-group:
 
 ---
 
-
+<img src="./assets/images/owaspKLU.png"/>
 
 
 ## Welcome
