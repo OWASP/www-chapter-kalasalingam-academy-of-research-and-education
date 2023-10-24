@@ -8,4 +8,19 @@ tags: example-tag
 
 ## Example
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+Speakers
+Would you like to speak on the upcoming OWASP TIET meetup? Contact Us : nipunnegi2002@gmail.com
+
+Email Format :
+
+Speaker name
+Job Role
+Company / Organization
+Country
+Email ID
+Contact Number
+Speaker Profile
+Presentation Details
+Name / Title of the Presentation
+Abstract of the presentation
+Presentation time required
