@@ -20,4 +20,3 @@ Check Out for Instagram Handle for regular content on Cybersecurity News, Techni
 Ethical Hacking, Development and lot more! :v: <br>
 <a href="https://www.instagram.com/nipunnegi" target="_blank">OWASP-KARE Instagram! </a> <br>
 
-<img src="assets/images/owaspinsta.png" > <br>
