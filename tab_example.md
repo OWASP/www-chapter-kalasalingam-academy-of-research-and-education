@@ -1,26 +1,23 @@
 ---
-title: Example
-layout:  null
+title: Blogs
+displaytext: Blogs/Posts
+layout: null
 tab: true
-order: 1
-tags: example-tag
+order: 2
+tags: OWASP TIET
 ---
 
-## Example
+## **OWASP TIET Chapter Blogs and Articles**
+## Want to be a Technical Writer?
+Reachout to us over mail or any other platform, If you want to contribute on making digital contents related to Information Security and Awareness, Hackathons And So On... 
 
-Speakers
-Would you like to speak on the upcoming OWASP TIET meetup? Contact Us : nipunnegi2002@gmail.com
+## Blogs
 
-Email Format :
+Coming Very Soon..
 
-Speaker name
-Job Role
-Company / Organization
-Country
-Email ID
-Contact Number
-Speaker Profile
-Presentation Details
-Name / Title of the Presentation
-Abstract of the presentation
-Presentation time required
+## Posts
+Check Out for Instagram Handle for regular content on Cybersecurity News, Technical Conents, <br>
+Ethical Hacking, Development and lot more! :v: <br>
+<a href="https://www.instagram.com/nipunnegi" target="_blank">OWASP-KARE Instagram! </a> <br>
+
+<img src="assets/images/owaspinsta.png" > <br>
