@@ -10,7 +10,11 @@ meetup-group:
 
 <img src="./assets/images/owaspKLU.png"/>
 
-
+## ***IMPORTNAT***
+WE WILL BE ENAGURATING SOON AND SHARING ALL THE NECESSARY DETAILS SOON.
+IF YOU WANT TO BE A PART OF THIS CHAPTER YOU CAN CONTACT THE CHAPTER LEADER 
+NIPUN NEGI
+nipunnegi2002@gmail.com
 ## Welcome
 Kalasalingam Academy of Research and Education (KARE) has been a steady source of highly skilled talent to the nation as well as overseas. A pioneer in engineering education, research and innovation. The team of OWASP Student Chapter, one of the gilt-edged coding society, involves ingenious mind solvers who are eager to make the world a better place to live in with their innovative techniques and discoveries. By successfully organizing many hackathons, tech-talks, workshops and coding nights, we have always strived hard to maintain the coding culture throughout the campus
 
