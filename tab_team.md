@@ -11,7 +11,7 @@ tags: OWASP KARE
 
 | Roles | Responsibilities | Person(s) |
 | --- | --- | --- |
-| Chapter Leaders | The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair. | Nipun Negi , Faizan Manzoor Mir|
+| Chapter Leaders | The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair. | Nipun Negi , Faizan Manzoor Mir , Jibran Gulzar , Bhanu Prathap Shourya|
 | Joint Secretaries|Managing And Taking Decisions To Ensure The Smooth Functioning Of All Departments Of The Chapter| A Praveen Kumar , Sourav Kumar , Shobin Bobby George|
 | DEAN SOC | DEAN SOC , Kalasalingam Academy of Research and Education| Dr.P.Deepalakshmi Ramkumar |
 | HOD CSE | HOD CSE, Kalasalingam Academy of Research and Education| Dr.Sureshkumar Nagarajan |
