@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Kalasalingam Academy of Research and Education
 tags: OWASP KARE
 region: Asia
+country: India
 meetup-group:
 
 ---
