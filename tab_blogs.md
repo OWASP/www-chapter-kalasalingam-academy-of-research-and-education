@@ -18,5 +18,5 @@ Coming Very Soon..
 ## Posts
 Check Out for Instagram Handle for regular content on Cybersecurity News, Technical Conents, <br>
 Ethical Hacking, Development and lot more! :v: <br>
-<a href="https://www.instagram.com/owasp_kare/" target="_blank">OWASP-KARE Instagram! </a> <br>
+<a /" target="_blank">OWASP-KARE Instagram! </a> <br>
 
