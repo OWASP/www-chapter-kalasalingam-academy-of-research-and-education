@@ -15,8 +15,5 @@ Reachout to us over mail or any other platform, If you want to contribute on mak
 
 Coming Very Soon..
 
-## Posts
-Check Out for Instagram Handle for regular content on Cybersecurity News, Technical Conents, <br>
-Ethical Hacking, Development and lot more! :v: <br>
-<a /" target="_blank">OWASP-KARE Instagram! </a> <br>
+
 
