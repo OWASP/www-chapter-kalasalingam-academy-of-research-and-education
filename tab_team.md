@@ -12,7 +12,7 @@ tags: OWASP KARE
 | Roles                  | Responsibilities                                                | Person(s) |
 | ---------------------- | -------------------------------------------------------------- | --------- |
 |                        |                                                                  |            |
-| President             | Head of the Chapter, responsible for overall leadership and direction. | Nipun Negi, Faizan Manzoor Mir |
+| President             | Head of the Chapter, responsible for overall leadership and direction. | Nipun Negi, Faizan Manzoor Mir , Jibran Gulzar|
 |                        |                                                                  |            |
 | Secretary             | Manages administrative tasks and ensures smooth operation.      | Praveen Kumar A |
 |                        |                                                                  |            |
