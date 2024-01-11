@@ -1,21 +1,18 @@
 ---
-
 layout: col-sidebar
 title: OWASP Kalasalingam Academy of Research and Education
 tags: OWASP KARE
 region: Asia
 country: India
 meetup-group:
-
 ---
 
-<img src="./assets/images/owaspKLU.png"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/images/owaspKLU.png" style="width: 70%; margin-right: 10%;">
+  <img src="./assets/images/klu.png" style="width: 20%;">
+</div>
 
-## ***IMPORTANT***
-WE WILL BE INAUGRATING SOON AND SHARING ALL THE NECESSARY DETAILS SOON.
-IF YOU WANT TO BE A PART OF THIS CHAPTER YOU CAN CONTACT THE CHAPTER LEADER <BR>
-NIPUN NEGI <BR>
-nipunnegi2002@gmail.com
+
 ## Welcome
 Kalasalingam Academy of Research and Education (KARE) has been a steady source of highly skilled talent to the nation as well as overseas. A pioneer in engineering education, research and innovation. The team of OWASP Student Chapter, one of the gilt-edged coding society, involves ingenious mind solvers who are eager to make the world a better place to live in with their innovative techniques and discoveries. By successfully organizing many hackathons, tech-talks, workshops and coding nights, we have always strived hard to maintain the coding culture throughout the campus
 
@@ -29,8 +26,3 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 WE WILL BE SHARING THE NECESSARY DETAILS SOON
-
-
-
-
-
