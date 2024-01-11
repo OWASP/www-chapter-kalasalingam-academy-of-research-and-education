@@ -9,7 +9,7 @@ tags: OWASP KARE
 
 ## Speakers
 
-Would you like to speak on the upcoming OWASP KARE meetup? [Contact Us](mailto:nipunnegi2002@gmail.com)
+Would you like to speak on the upcoming OWASP KARE meetup? [Contact Us](mailto:nipun.negi@owasp.org)
 
 **Email Format :**
 
