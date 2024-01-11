@@ -1,3 +1,14 @@
+
+---
+title: Team
+displaytext: Team
+layout: null
+tab: true
+order: 3
+tags: OWASP KARE
+---
+
+
 ## Our Executive Board
 | Name                        | Position                    | Responsibilities                                           |
 |-----------------------------|-----------------------------|------------------------------------------------------------|
