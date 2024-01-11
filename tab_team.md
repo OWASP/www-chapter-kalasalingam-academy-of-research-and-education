@@ -1,18 +1,4 @@
-
----
-title: Team
-displaytext: Team
-layout: null
-tab: true
-order: 3
-tags: OWASP TIET
----
-
 ## Our Executive Board
-
-
-# Executive Board
-
 | Name                        | Position                    | Responsibilities                                           |
 |-----------------------------|-----------------------------|------------------------------------------------------------|
 | Nipun Negi                  | President                   | Overall leadership and decision-making for the organization|
