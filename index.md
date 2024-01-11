@@ -9,7 +9,7 @@ meetup-group:
 
 <div style="display: flex; justify-content: space-between;">
   <img src="./assets/images/owaspKLU.png" style="width: 70%; margin-right: 10%;">
-  <img src="./assets/images/klu.png" style="width: 20%;">
+  
 </div>
 
 
