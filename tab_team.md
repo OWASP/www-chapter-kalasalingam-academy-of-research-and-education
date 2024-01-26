@@ -14,6 +14,8 @@ tags: OWASP KARE
 |                        |                                                                  |            |
 | President             | Head of the Chapter, responsible for overall leadership and direction. | Nipun Negi, Faizan Manzoor Mir , Jibran Gulzar|
 |                        |                                                                  |            |
+| Industrial Partner    | Cyber Security SME for IBM,AWS Certified Security-Specialty,CompTIA Pentest+ |Mohsin Quresh|
+|                        |                                                                  |            |
 | Secretary             | Manages administrative tasks and ensures smooth operation.      | Praveen Kumar A |
 |                        |                                                                  |            |
 | Vice President        | Assists the President and takes charge in their absence.       | V Bhanu Prathap Shourya |
