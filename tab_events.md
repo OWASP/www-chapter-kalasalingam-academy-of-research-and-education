@@ -7,21 +7,5 @@ order: 3
 tags: OWASP KARE
 ---
 
-## Speakers
-
-Would you like to speak on the upcoming OWASP KARE meetup? [Contact Us](mailto:nipun.negi@owasp.org)
-
-**Email Format :**
-
-- Speaker name
-- Job Role
-- Company / Organization
-- Country
-- Email ID
-- Contact Number
-- Speaker Profile
-- Presentation Details
-    - Name / Title of the Presentation
-    - Abstract of the presentation
-    - Presentation time required
+<img src="https://images.unsplash.com/photo-1682687220923-c58b9a4592ae?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8" alt="image" />
 
