@@ -2,6 +2,7 @@
 * [Kalasalingam Academy of Research and Education](https://kalasalingam.ac.in/)
 
 ### Social Links
-* Will be updated soon
+* [Instagram](https://www.instagram.com/owasp_kare/)
+* [Linkedin](https://www.linkedin.com/company/owasp-kare?trk=public_post_feed-actor-image)
 
 
