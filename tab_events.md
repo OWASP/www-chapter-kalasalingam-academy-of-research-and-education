@@ -16,3 +16,13 @@ The chapter was inaugrated in the presence of Mohsin Quresh(Cyber Security SME f
 </div>
 
 
+## 2. 🌟 OWASP KARE Shines Bright at NAAC Visit! 🌟 (08th Feb , 2024) 
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/images/naac 01.jpg" style="width: 20%; margin-right: 10%;">
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/images/naac 02.jpg" style="width: 20%; margin-right: 10%;">
+</div>
+
+
