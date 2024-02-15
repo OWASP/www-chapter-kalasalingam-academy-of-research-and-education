@@ -8,7 +8,7 @@ meetup-group:
 ---
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="./assets/images/owaspKLU.png" style="width: 70%; margin-right: 10%;">
+  <img src="./assets/images/logo.png" style="width: 70%; margin-right: 10%;">
   
 </div>
 
