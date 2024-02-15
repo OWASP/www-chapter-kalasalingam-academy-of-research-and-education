@@ -9,9 +9,6 @@ tags: OWASP KARE
 
 ## Our Executive Board
 
-## Our Executive Board
-
-## Our Executive Board
 
 | **Roles**              | **Responsibilities**                                           | **Person(s)**                             |
 | ---------------------- | ------------------------------------------------------------- | ----------------------------------------- |
