@@ -21,6 +21,7 @@ tags: OWASP KARE
 | Vice President        | Assists the President and takes charge in their absence.      | V Bhanu Prathap Shourya                   |
 | Treasurer             | Manages chapter finances and transactions.                     | Pasala Keerthi Sharin                     |
 | Outreach Coordinator  | Engagement, communication, events, partnerships, analysis.     | SUGGALA LOHITHA                           |
+| Membership Coordinator | Manages membership-related tasks and coordination.             | Nandini Sai                             |
 | Technical Lead         | Oversees technical aspects from development to deployment.    | KUMAR RAJAN, Tharun Kumar U               |
 | Public Relations Officer | Manages relationships with the public and organizations.      | Kundakarla Syam Kumar                     |
 | Social Media Lead      | Handles all social media accounts and related affairs.         | R. Maria Rasmus, G. Uday                  |
