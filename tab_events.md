@@ -12,8 +12,7 @@ tags: OWASP KARE
 The chapter was inaugrated in the presence of Mohsin Quresh(Cyber Security SME for IBM) and various office bearers of Kalasalingam Academy of Research and Education. [A short video from our inaugration
 ](https://www.linkedin.com/feed/update/urn:li:activity:7160658288185909249).
 <div style="display: flex; justify-content: space-between;">
-  <img src="./assets/images/inaugratiom.jpeg" style="width: 70%; margin-right: 10%;">
-  
+  <img src="./assets/images/inaugratiom.jpeg" style="width: 20%; margin-right: 10%;">
 </div>
 
 
