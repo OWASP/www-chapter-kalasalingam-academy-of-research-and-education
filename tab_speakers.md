@@ -17,7 +17,7 @@ Join us on **27th Feb, 5:00 PM - 6:00 PM,** in the Library's Video Conferencing 
 </div>
 
 ## 1. Makethon_Euphoria (26th March , 2024) 
-**Sponsors : KAlasalingam Academy of Research and Education **
+****Sponsors : Kalasalingam Academy of Research and Education ****
 
 
 🔒 Join the Cybersecurity Makeathon hosted by OWASP and Cybernerds at Euphoria - an electrifying event happening at Kalasalingam Academy of Research and Education! 💻
