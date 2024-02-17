@@ -4,5 +4,6 @@
 ### Social Links
 * [Instagram](https://www.instagram.com/owasp_kare/)
 * [Linkedin](https://www.linkedin.com/company/owasp-kare?trk=public_post_feed-actor-image)
+* [Youtube](https://www.youtube.com/@KAREOWASPStudentChapter)
 
 
