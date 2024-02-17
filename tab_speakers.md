@@ -16,7 +16,7 @@ Join us on **27th Feb, 5:00 PM - 6:00 PM,** in the Library's Video Conferencing 
   <img src="./assets/images/Grant sir.png" style="width: 50%; margin-right: 10%;">
 </div>
 
-## 1. Makethon_Euphoria (26th March , 2024) 
+## 2. Makethon_Euphoria (26th March , 2024) 
 ****Sponsors : Kalasalingam Academy of Research and Education ****
 
 
