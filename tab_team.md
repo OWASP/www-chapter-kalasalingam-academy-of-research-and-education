@@ -24,5 +24,5 @@ tags: OWASP KARE
 | Public Relations Officer | Manages relationships with the public and organizations.      | Kundakarla Syam Kumar , NARAHARI SAI ACHYUTH                     |
 | Social Media Lead      | Handles all social media accounts and related affairs.         |  G. Uday                  |
 | Web Developer          | Responsible for web development tasks.                        | Ganipineni Bharadwaj Naidu                |
-| Content Creator        | Generates content for various purposes.                       | M.Mathivanan, ALAMUR HARSHA VARDHAN       |
+| Content Creator        | Generates content for various purposes.                       | M.Mathivanan, ALAMUR HARSHA VARDHAN ,G. Lakshmi Narasimha      |
 | Event Coordinator      | Plans and coordinates events.                                  | Garnepudi Prasanthi, M.Asish   |
