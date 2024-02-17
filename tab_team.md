@@ -25,4 +25,4 @@ tags: OWASP KARE
 | Social Media Lead      | Handles all social media accounts and related affairs.         |  G. Uday                  |
 | Web Developer          | Responsible for web development tasks.                        | Ganipineni Bharadwaj Naidu                |
 | Content Creator        | Generates content for various purposes.                       | M.Mathivanan, ALAMUR HARSHA VARDHAN       |
-| Event Coordinator      | Plans and coordinates events.                                  | Garnepudi Prasanthi, KORLEPARA TARUN SAI  |
+| Event Coordinator      | Plans and coordinates events.                                  | Garnepudi Prasanthi, M.Asish   |
