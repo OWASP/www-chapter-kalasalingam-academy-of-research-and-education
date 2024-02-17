@@ -26,4 +26,11 @@ tags: OWASP KARE
   - Timing: 9:00 PM - 9:30 PM
   - Agenda: Meeting with the poster-making team regarding our upcoming event on 27th February, 2024
 
+- **Meeting on 17th February, 2024**
+  - Type: Online Meeting
+  - Platform: Google Meet
+  - Timing: 9:30 PM - 9:45 PM
+  - Agenda: Meeting with the content creators regarding Makethon_Euphoria Event
+
+
 
