@@ -22,7 +22,7 @@ The chapter was inaugrated in the presence of Mohsin Quresh(Cyber Security SME f
   <img src="./assets/images/naac 01.jpg" style="width: 50%; margin-right: 10%;">
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="./assets/images/naac 02.jpg" style="width: 50%; margin-right: 10%;">
+  <img src="./assets/images/naac 02.jpg" style="width: 60%; margin-right: 10%;">
 </div>
 
 
