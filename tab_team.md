@@ -17,7 +17,6 @@ tags: OWASP KARE
 | Secretary             | Manages administrative tasks.                                  | Praveen Kumar A                           |
 | Vice President        | Assists the President and takes charge in their absence.      | V Bhanu Prathap Shourya , Sourav Kumar                  |
 | Joint Secretary             | Manages administrative tasks.                                  | Uday Banduchode                            |
-
 | Treasurer             | Manages chapter finances and transactions.                     | Pasala Keerthi Sharin                     |
 | Outreach Coordinator  | Engagement, communication, events, partnerships, analysis.     | SUGGALA LOHITHA                           |
 | Membership Coordinator | Manages membership-related tasks and coordination.             | Nandini Sai                             |
