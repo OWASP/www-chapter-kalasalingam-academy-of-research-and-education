@@ -14,7 +14,7 @@ tags: OWASP KARE
 | ---------------------- | ------------------------------------------------------------- | ----------------------------------------- |
 | President             | Overall leadership and direction.                             | Nipun Negi, Faizan Manzoor Mir, Jibran Gulzar |
 | Industrial Partner    | Cyber Security SME for IBM, AWS Certified, CompTIA Pentest+     | Mohsin Quresh                             |
-| Secretary             | Manages administrative tasks.                                  | Praveen Kumar A                           |
+| Secretary             | Manages administrative tasks.                                  | Praveen Kumar A  , U Prashant Kumar                          |
 | Vice President        | Assists the President and takes charge in their absence.      | V Bhanu Prathap Shourya , Sourav Kumar                  |
 | Joint Secretary             | Manages administrative tasks.                                  | Uday Banduchode                            |
 | Treasurer             | Manages chapter finances and transactions.                     | Pasala Keerthi Sharin                     |
