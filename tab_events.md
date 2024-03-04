@@ -27,8 +27,14 @@ The chapter was inaugrated in the presence of Mohsin Quresh(Cyber Security SME f
 
 ## 2. Introduction to the OWASP PSCF(27th Feb , 2024) 
   Speaker : Grant Ongers
+  
   Topic : OWASP PSCF
+  
   Total Attendees: 175
+  
+  Time : 5:00PM - 6:00PM
+  
+  Venue : Library Conference HALL , KARE
 
 
 <div style="display: flex; justify-content: space-between;">
