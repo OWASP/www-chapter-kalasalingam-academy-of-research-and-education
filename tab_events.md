@@ -25,7 +25,7 @@ The chapter was inaugrated in the presence of Mohsin Quresh(Cyber Security SME f
   <img src="./assets/images/naac 02.jpg" style="width: 60%; margin-right: 10%;">
 </div>
 
-## 2. Introduction to the OWASP PSCF(27th Feb , 2024) 
+## 3. Introduction to the OWASP PSCF(27th Feb , 2024) 
   Speaker : Grant Ongers
   
   Topic : OWASP PSCF
