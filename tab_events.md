@@ -40,6 +40,10 @@ The chapter was inaugrated in the presence of Mohsin Quresh(Cyber Security SME f
 <div style="display: flex; justify-content: space-between;">
   <img src="./assets/images/Event01.jpeg" style="width: 60%; margin-right: 10%;">
 </div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/images/OWASPPSCF.jpg" style="width: 60%; margin-right: 10%;">
+</div>
+
 
 
 
