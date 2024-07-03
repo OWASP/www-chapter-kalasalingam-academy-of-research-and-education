@@ -1,4 +1,7 @@
 ### Leaders
 
-* [Dr. K. Vivekrabinson - Faculty Advisor](mailto:k.vivekrabinson@klu.ac.in)
+* {NC Brintha - Faculty Advisor](mailto:nc.brintha@owasp.org)
+* [Nipun Negi](mailto:nipun.negi@owasp.org)
+* [Faizan Manzoor](mailto:faizan.manzoor@owasp.org)
+
 
