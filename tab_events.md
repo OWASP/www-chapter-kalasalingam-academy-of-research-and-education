@@ -9,7 +9,7 @@ tags: OWASP KARE
 
 ### Previous Events 
 
-## 5. Cybersecurity Careers in the AI Era: Your Guide to Getting Started in Cybersecurity.
+## 6. Cybersecurity Careers in the AI Era: Your Guide to Getting Started in Cybersecurity.
   
   
 
@@ -25,6 +25,27 @@ Event Details:
 
 <div style="display: flex; justify-content: space-between;">
   <img src="./assets/images/prashasthbaliga.jpg" style="width: 60%; margin-right: 10%;">
+</div>
+
+## 5. Online Webinar on OSINT (Open Source Intelligence)
+  
+Join Us for an Exclusive OSINT Workshop at OWASP KARE!
+We're excited to invite students and security enthusiasts to a unique Workshop on Open Source Intelligence (OSINT).
+Learn how to gather, analyze, and utilize publicly available information in cybersecurity contexts.
+Date: 31st May 2024
+• Time: 12:00 PM
+Speaker: Nipun Negi (President, OWASP KARE)
+ Why Attend?
+  * Hands-On Training
+  * Real-World Scenarios
+ 
+Email: nipun.negi@owasp.org
+
+Don't miss this chance to enhance your cybersecurity skills and network with professionals! Scan the QR code to register now and secure your spot!
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/images/osintworkshop.jpg" style="width: 60%; margin-right: 10%;">
 </div>
 
 
