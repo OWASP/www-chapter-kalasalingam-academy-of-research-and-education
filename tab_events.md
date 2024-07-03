@@ -9,6 +9,25 @@ tags: OWASP KARE
 
 ### Previous Events 
 
+## 5. Cybersecurity Careers in the AI Era: Your Guide to Getting Started in Cybersecurity.
+  
+  
+
+
+Join us to explore the dynamic field of cybersecurity and learn how AI is transforming the industry. Whether you're just starting out or looking to advance your career, this event is packed with insights and guidance to help you navigate your path in cybersecurity. Don't miss this opportunity to gain valuable knowledge from an industry expert!
+
+
+
+Event Details:
+ Date: 19th June, 2024 Time: 8:30 PM
+ Speaker:Prashasth Baliga , Cyber Security Manager at Palo Alto Labs
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/images/prashasthbaliga.jpg" style="width: 60%; margin-right: 10%;">
+</div>
+
+
 
 
 ## 4. Winners of SecureNet Riddle Rally 
