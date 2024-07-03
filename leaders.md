@@ -1,6 +1,8 @@
 ### Leaders
-* [Nipun Negi](mailto:nipun.negi@owasp.org)
-* [Dr.K.Vivekrabinson](mailto:k.vivekrabinson@klu.ac.in)
-* [NC Brintha](mailto:nc.brintha@owasp.org)
-* [Faizan Manzoor](mailto:faizan.manzoor@owasp.org)
 
+* 
+* [Dr.K.Vivekrabinson - Faculty Advisor](mailto:k.vivekrabinson@klu.ac.in)
+* [Jeevan Shaju John](mailto:jeevanshaju.john@owasp.org)
+* [Nipun Negi](mailto:nipun.negi@owasp.org)
+* [Raghav Gupta](mailto:raghav.gupta@owasp.org)
+* [Sri Sai Satya Sraya Ravuri](mailto:sraya.ravuri@owasp.org)
