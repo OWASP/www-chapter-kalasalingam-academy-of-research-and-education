@@ -60,9 +60,13 @@ Kudos to the winners of the SecureNet Riddle Rally held on 𝐌𝐚𝐲 𝟏𝟓
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="./assets/images/winners_riddle_rally.png" style="width: 60%; margin-right: 10%;">
+  
   <img src="./assets/images/winnerssecurenet.jpg" style="width: 60%; margin-right: 10%;">
   
+</div>
+<div style="display: flex; justify-content: space-between;">
+
+<img src="./assets/images/winners_riddle_rally.png" style="width: 60%; margin-right: 10%;">
 </div>
 
 
