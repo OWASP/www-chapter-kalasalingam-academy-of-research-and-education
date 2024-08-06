@@ -9,6 +9,30 @@ tags: OWASP KARE
 
 ### Previous Events 
 
+## 7. Getting into CyberSecurity by Grant Ongers.
+  
+  
+🌐 Event Recap: Successful Cyber Security Webinar 🔐
+
+We are thrilled to share the success of our recent webinar on Cyber Security, which was conducted smoothly thanks to our esteemed speaker, Grant Ongers.
+
+Grant's insightful presentation provided invaluable knowledge and practical advice on the latest trends and best practices in cyber security. The webinar concluded with an engaging Q&A session, where our participants had the opportunity to ask pressing questions and receive expert guidance.
+
+A heartfelt thank you to all our participants for their active involvement and enthusiasm. Your participation made this event truly special.
+
+Stay tuned for more exciting events and opportunities to enhance your cyber security skills!
+
+
+
+Event Details:
+ Date: 01st August , 2024 Time: 8:30 PM
+ Speaker:Grant Ongers, Founder Secure Delivery
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/images/gettingintosecurity.jpg" style="width: 60%; margin-right: 10%;">
+</div>
+
 ## 6. Cybersecurity Careers in the AI Era: Your Guide to Getting Started in Cybersecurity.
   
   
