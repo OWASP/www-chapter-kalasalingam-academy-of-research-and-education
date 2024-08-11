@@ -32,6 +32,10 @@ Event Details:
 <div style="display: flex; justify-content: space-between;">
   <img src="./assets/images/gettingintosecurity.jpg" style="width: 60%; margin-right: 10%;">
 </div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/images/Getting into CS.png" style="width: 60%; margin-right: 10%;">
+</div>
+
 
 ## 6. Cybersecurity Careers in the AI Era: Your Guide to Getting Started in Cybersecurity.
   
