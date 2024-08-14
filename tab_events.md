@@ -9,6 +9,35 @@ tags: OWASP KARE
 
 ### Previous Events 
 
+
+
+## 8. Getting into CyberSecurity by Grant Ongers.
+  
+  
+🌐 Event Recap: Successful Cyber Security Webinar 🔐
+
+𝐄𝐯𝐞𝐧𝐭 𝐒𝐮𝐜𝐜𝐞𝐬𝐬: 𝐂𝐥𝐨𝐮𝐝 𝐅𝐨𝐫𝐭𝐫𝐞𝐬𝐬 - 𝐀𝐧 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲.🎉 
+
+OWASP KARE is excited to share we have hosted a successful and enlightening session on "Cloud Fortress: An Introduction to Cloud Security" on August 13th, 2024! The event featured a compelling talk by industry expert Sanjeev Kumar Jaiswal, who provided invaluable insights into the critical aspects of cloud security and security architecture.
+
+We were honored to host Sanjeev Kumar, an industry expert who delivered an insightful session covering global cloud security market trends, the importance of cloud security, and various AWS security services and tools.
+
+A huge thank you to Sanjeev Kumar for sharing his expertise and to everyone who joined us online. Your participation and enthusiasm contributed to making this event a resounding success!
+
+Stay tuned for more exciting events from OWASP KARE as we continue to explore and advance in the world of cybersecurity! 🔐
+
+
+
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/images/cloudsecurity101.jpg" style="width: 60%; margin-right: 10%;">
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/images/cloudfortress.png" style="width: 60%; margin-right: 10%;">
+</div>
+
+
 ## 7. Getting into CyberSecurity by Grant Ongers.
   
   
