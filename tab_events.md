@@ -31,7 +31,7 @@ Stay tuned for more exciting events from OWASP KARE as we continue to explore an
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="./assets/images/cloudsecurity101.jpg" style="width: 60%; margin-right: 10%;">
+  <img src="./assets/images/cloudsecurity101.png" style="width: 60%; margin-right: 10%;">
 </div>
 <div style="display: flex; justify-content: space-between;">
   <img src="./assets/images/cloudfortress.png" style="width: 60%; margin-right: 10%;">
