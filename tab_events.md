@@ -78,6 +78,9 @@ Join us to explore the dynamic field of cybersecurity and learn how AI is transf
 Event Details:
  Date: 19th June, 2024 Time: 8:30 PM
  Speaker:Prashasth Baliga , Cyber Security Manager at Palo Alto Labs
+ <div style="display: flex; justify-content: space-between;">
+  <img src="./assets/images/finalAIERA.png" style="width: 60%; margin-right: 10%;">
+</div>
 
 
 <div style="display: flex; justify-content: space-between;">
