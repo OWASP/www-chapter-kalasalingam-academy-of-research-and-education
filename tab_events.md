@@ -11,7 +11,7 @@ tags: OWASP KARE
 
 
 
-## 8. Getting into CyberSecurity by Grant Ongers.
+## 8. Cloud Fortress - An Introduction to Cloud Security by Sanjeev Jaiswal.
   
   
 🌐 Event Recap: Successful Cyber Security Webinar 🔐
