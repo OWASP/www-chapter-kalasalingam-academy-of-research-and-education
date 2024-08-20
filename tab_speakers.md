@@ -9,26 +9,32 @@ tags: OWASP KARE
 
 ### Upcoming Events / Registrations are open 
 
-## 1. Cloud Fortress - An introduction to Cloud Security 
-  
-🚀 Exciting Announcement! We're thrilled to host a webinar featuring Sanjeev Kumar Jaiswal, a Cloud Security Expert with 14 years of experience!
-🎙 **Topic**: Cloud Fortress
-📅 **Date & Time**: 13-08-24 / 9:00 PM IST
+## 1. 𝐂𝐨𝐝𝐞𝐁𝐫𝐞𝐚𝐜𝐡 𝐁𝐚𝐭𝐭𝐥𝐞: 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐊𝐧𝐨𝐜𝐤𝐨𝐮𝐭🛡️🔍
+Prepare to elevate your cybersecurity skills to the next level! 
 
-🔐 Discover the secrets of:
-- Secure Cloud Architecture
-- DevSecOps
-- Container Security
-- And much more!
+Join OWASP KARE for the 𝐂𝐨𝐝𝐞𝐁𝐫𝐞𝐚𝐜𝐡 𝐁𝐚𝐭𝐭𝐥𝐞: 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐊𝐧𝐨𝐜𝐤𝐨𝐮𝐭🛡️🔍 – an exciting quiz competition designed to challenge and enhance your cybersecurity expertise!
 
-🔗 **Join Us:**
-- [Register here](https://forms.gle/8A1i9VSQyFt6XSEQA)
-- 📱 **Stay Updated**: [Join our WhatsApp Group](https://chat.whatsapp.com/Ifo8F15N0uuEtc8PqSHqEs) for all event updates and further communication.
+📅 Date: August 21, 2024
+⏰ Time: 5:00 PM - 6:00 PM
+📍 Venue: Room 8003, KARE
 
-Don't miss this chance to learn from a leader in cloud security! Perfect for beginners and intermediate learners alike. See you there! 🌟
+🚀 Why participate?
+Tackle topics like Linux, Cryptography, Web Application Security, and more!
+Showcase your skills and rise to the top.
+Compete with fellow students and see who can dominate the quiz.
 
+👥 Who can join?
+Open to all students who are passionate about cybersecurity! Team up with three friends (teams of 4) and dive into the action.
+
+🔗 Secure your spot: https://lnkd.in/gSdsCHYh
+💬 Stay updated: https://lnkd.in/gfjbzmbe
+
+Don't miss this chance to defend, decrypt, and dominate with OWASP KARE! 
 <div style="display: flex; justify-content: space-between;">
-  <img src="./assets/images/cloudfortress.png" style="width: 60%; margin-right: 10%;">
+  <img src="./assets/images/round1.png" style="width: 60%; margin-right: 10%;">
 </div>
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/images/CodeBreach Battle.png" style="width: 60%; margin-right: 10%;">
+</div>
 
