@@ -49,10 +49,10 @@ Thank you once again to everyone involved. We look forward to seeing you at our 
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="./assets/images/cloudsecurity101.png" style="width: 60%; margin-right: 10%;">
+  <img src="./assets/images/cbbround1.jpg" style="width: 60%; margin-right: 10%;">
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="./assets/images/cloudfortress.png" style="width: 60%; margin-right: 10%;">
+  <img src="./assets/images/cbbposter.jpg" style="width: 60%; margin-right: 10%;">
 </div>
 
 
