@@ -11,6 +11,52 @@ tags: OWASP KARE
 
 
 
+## 9. 𝐂𝐨𝐝𝐞𝐁𝐫𝐞𝐚𝐜𝐡 𝐁𝐚𝐭𝐭𝐥𝐞 - 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐊𝐧𝐨𝐜𝐤𝐨𝐮𝐭 🎉.
+  
+  
+🌐 Event Recap: 𝐑𝐨𝐮𝐧𝐝 𝟏 𝐒𝐮𝐜𝐜𝐞𝐬𝐬: 𝐂𝐨𝐝𝐞𝐁𝐫𝐞𝐚𝐜𝐡 𝐁𝐚𝐭𝐭𝐥𝐞 - 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐊𝐧𝐨𝐜𝐤𝐨𝐮𝐭 🔐
+
+𝐄𝐯𝐞𝐧𝐭 𝐒𝐮𝐜𝐜𝐞𝐬𝐬:𝐂𝐨𝐝𝐞𝐁𝐫𝐞𝐚𝐜𝐡 𝐁𝐚𝐭𝐭𝐥𝐞 - 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐊𝐧𝐨𝐜𝐤𝐨𝐮𝐭 .🎉 
+
+OWASP KARE is happy to announce the successful completion of 𝐑𝐨𝐮𝐧𝐝 𝟏
+of the 𝐂𝐨𝐝𝐞𝐁𝐫𝐞𝐚𝐜𝐡 𝐁𝐚𝐭𝐭𝐥𝐞: 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐊𝐧𝐨𝐜𝐤𝐨𝐮𝐭 held on August 21, 2024! 🏆🖥️
+
+A huge thank you to everyone who participated and made this event a grand success. Your enthusiasm and expertise in cybersecurity truly shone through!
+
+𝐄𝐯𝐞𝐧𝐭 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:
+Date: August 21, 2024
+Time: 5:00 PM to 6:00 PM
+Venue: 8003
+Round 1: Knowledge Knockout
+
+Our quiz covered a range of exciting topics, including:
+-Linux basics
+-Cybersecurity tools
+-Cryptography
+-Web Application Security
+-Cloud Security
+-IoT Security
+...and more!
+
+Your participation and engagement were invaluable, and we’re grateful for the energy and insights you brought to the event. Special thanks to our incredible team who worked tirelessly to ensure everything went smoothly. 🙌
+
+For those who missed it, stay tuned for more exciting events and updates by joining our community on WhatsApp and follow us for future events!
+
+Thank you once again to everyone involved. We look forward to seeing you at our next event! 🔐
+
+
+
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/images/cloudsecurity101.png" style="width: 60%; margin-right: 10%;">
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/images/cloudfortress.png" style="width: 60%; margin-right: 10%;">
+</div>
+
+
+
 ## 8. Cloud Fortress - An Introduction to Cloud Security by Sanjeev Jaiswal.
   
   
