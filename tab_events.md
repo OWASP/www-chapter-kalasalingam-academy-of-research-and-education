@@ -31,7 +31,7 @@ Stay connected for more valuable learning opportunities in the world of cybersec
 
 𝐄𝐯𝐞𝐧𝐭 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:
 Date: September 9, 2024
-Time: 7:00 PM to 8:00 PM
+Time: 6:00 PM to 7:00 PM
 Online 
 
 Your participation and engagement were invaluable, and we’re grateful for the energy and insights you brought to the event. Special thanks to our incredible team who worked tirelessly to ensure everything went smoothly. 🙌
