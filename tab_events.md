@@ -10,6 +10,49 @@ tags: OWASP KARE
 ### Previous Events 
 
 
+## 10. 𝐇𝐚𝐜𝐤 𝐭𝐡𝐞 𝐌𝐚𝐭𝐫𝐢𝐱: 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐏𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠 𝟏𝟎𝟏!🔐.
+  
+  
+🌐 Event Recap: OWASP KARE is excited to share the incredible success of our event, 𝐇𝐚𝐜𝐤 𝐭𝐡𝐞 𝐌𝐚𝐭𝐫𝐢𝐱: 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐏𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠 𝟏𝟎𝟏!
+
+𝐄𝐯𝐞𝐧𝐭 𝐒𝐮𝐜𝐜𝐞𝐬𝐬:𝐇𝐚𝐜𝐤 𝐭𝐡𝐞 𝐌𝐚𝐭𝐫𝐢𝐱: 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐏𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠 𝟏𝟎𝟏! 🎉 
+
+On September 9, 2024, cybersecurity enthusiasts came together for an interactive online session where Mr.Hitesh Kumar Kothapalli expertly guided participants through:
+
+👉🏻Detecting system vulnerabilities
+👉🏻Exploiting weaknesses
+👉🏻Strengthening security practices
+
+The energy and engagement from everyone made this event a standout! 💻💡 We’re confident the insights gained will contribute to shaping future cybersecurity experts.
+
+A huge appreciation to Mr.Hitesh Kumar Kothapalli and the OWASP KARE team for their dedication in making this event a success.
+
+Stay connected for more valuable learning opportunities in the world of cybersecurity! 🔒💻
+
+𝐄𝐯𝐞𝐧𝐭 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:
+Date: September 9, 2024
+Time: 7:00 PM to 8:00 PM
+Online 
+
+Your participation and engagement were invaluable, and we’re grateful for the energy and insights you brought to the event. Special thanks to our incredible team who worked tirelessly to ensure everything went smoothly. 🙌
+
+For those who missed it, stay tuned for more exciting events and updates by joining our community on WhatsApp and follow us for future events!
+
+Thank you once again to everyone involved. We look forward to seeing you at our next event! 🔐
+
+
+
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="" style="width: 60%; margin-right: 10%;">
+</div>
+<!-- <div style="display: flex; justify-content: space-between;">
+  <img src="" style="width: 60%; margin-right: 10%;">
+</div> -->
+
+
+
 
 ## 9. 𝐂𝐨𝐝𝐞𝐁𝐫𝐞𝐚𝐜𝐡 𝐁𝐚𝐭𝐭𝐥𝐞 - 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐊𝐧𝐨𝐜𝐤𝐨𝐮𝐭 🎉.
   
