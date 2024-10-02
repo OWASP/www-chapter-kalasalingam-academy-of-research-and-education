@@ -45,7 +45,7 @@ Thank you once again to everyone involved. We look forward to seeing you at our 
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="" style="width: 60%; margin-right: 10%;">
+  <img src="./assets/images/hack-the-matrix.jpg" style="width: 60%; margin-right: 10%;">
 </div>
 <!-- <div style="display: flex; justify-content: space-between;">
   <img src="" style="width: 60%; margin-right: 10%;">
