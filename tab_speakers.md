@@ -9,7 +9,7 @@ tags: OWASP KARE
 
 ### Upcoming Events / Registrations are open 
 
-## 1. VINTRA’24: Cyber Threat Hunt🛡️🔍
+<!--## 1. VINTRA’24: Cyber Threat Hunt🛡️🔍
 The Cyber Threat Hunt Event aims to enhance the cybersecurity skills of CSE, IT, and CS/IT students through a comprehensive event that combines theoretical knowledge and practical application. By providing a competitive environment focused on identifying and mitigating cyber threats, the event seeks to sharpen participants' abilities in threat detection and response. A key objective is to identify and nurture top cybersecurity talent within the institution. This initiative creates a valuable pathway for local participants to gain recognition and potentially represent the institution on broader platforms, fostering excellence in cybersecurity and promoting the development of world-class skills among participants.
 The event is split into two rounds. The first round features challenges ranging from basic to intermediate difficulty, allowing participants to warm up and showcase their foundational skills. The second round ramps things up with mostly intermediate challenges, plus one or two tough ones to really test the top contenders.
 
@@ -34,5 +34,6 @@ Don't miss this chance to defend, decrypt, and dominate with OWASP KARE!
 
 <div style="display: flex; justify-content: space-between;">
   <img src="" style="width: 60%; margin-right: 10%;">
-</div>
+</div> 
 
+-->
