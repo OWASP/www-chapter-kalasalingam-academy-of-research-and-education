@@ -27,7 +27,7 @@ A massive shoutout to all participants—your passion and teamwork have set a ne
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="." style="width: 60%; margin-right: 10%;">
+  <img src="./assets/images/𝐂𝐨𝐝𝐞𝐁𝐫𝐞𝐚𝐜𝐡𝐁𝐚𝐭𝐭𝐥𝐞2.jpg" style="width: 60%; margin-right: 10%;">
 </div>
 <!-- <div style="display: flex; justify-content: space-between;">
   <img src="" style="width: 60%; margin-right: 10%;">
