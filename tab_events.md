@@ -10,6 +10,33 @@ tags: OWASP KARE
 ### Previous Events 
 
 
+## 11. 𝐅𝐥𝐚𝐠 𝐅𝐫𝐞𝐧𝐳𝐲: 𝐑𝐨𝐮𝐧𝐝 𝟐 𝐨𝐟 𝐂𝐨𝐝𝐞𝐁𝐫𝐞𝐚𝐜𝐡 𝐁𝐚𝐭𝐭𝐥𝐞🚩.
+  
+  
+🌐 Event Recap: OWASP KARE is excited to share the incredible success of our event, 𝐅𝐥𝐚𝐠 𝐅𝐫𝐞𝐧𝐳𝐲: 𝐑𝐨𝐮𝐧𝐝 𝟐 𝐨𝐟 𝐂𝐨𝐝𝐞𝐁𝐫𝐞𝐚𝐜𝐡 𝐁𝐚𝐭𝐭𝐥𝐞!
+
+𝐄𝐯𝐞𝐧𝐭 𝐒𝐮𝐜𝐜𝐞𝐬𝐬:𝐅𝐥𝐚𝐠 𝐅𝐫𝐞𝐧𝐳𝐲: 𝐑𝐨𝐮𝐧𝐝 𝟐 𝐨𝐟 𝐂𝐨𝐝𝐞𝐁𝐫𝐞𝐚𝐜𝐡 𝐁𝐚𝐭𝐭𝐥𝐞! 🎉 
+
+The 10 teams that took on national-level CTF challenges were nothing short of extraordinary! 💻⚡ Their skills, determination, and relentless pursuit of flags showed us what true cybersecurity warriors are made of. 🔥
+
+Each team brought their A-game, navigating through intense challenges with creativity and precision. The competition was fierce, and the energy? Absolutely electrifying! ⚡
+
+A massive shoutout to all participants—your passion and teamwork have set a new standard! 👏 Stay tuned, the next round is just around the corner! 
+
+
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="." style="width: 60%; margin-right: 10%;">
+</div>
+<!-- <div style="display: flex; justify-content: space-between;">
+  <img src="" style="width: 60%; margin-right: 10%;">
+</div> -->
+
+
+
+
+
 ## 10. 𝐇𝐚𝐜𝐤 𝐭𝐡𝐞 𝐌𝐚𝐭𝐫𝐢𝐱: 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐏𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠 𝟏𝟎𝟏!🔐.
   
   
