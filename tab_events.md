@@ -10,7 +10,44 @@ tags: OWASP KARE
 ### Previous Events 
 
 
-## 11. 𝐅𝐥𝐚𝐠 𝐅𝐫𝐞𝐧𝐳𝐲: 𝐑𝐨𝐮𝐧𝐝 𝟐 𝐨𝐟 𝐂𝐨𝐝𝐞𝐁𝐫𝐞𝐚𝐜𝐡 𝐁𝐚𝐭𝐭𝐥𝐞🚩.
+## 12. VINTRA’24: Cyber Threat Hunt🛡️🔍.
+  
+  
+🌐 Event Recap: OWASP KARE is excited to share the incredible success of our event, VINTRA’24: Cyber Threat Hunt!
+
+𝐄𝐯𝐞𝐧𝐭 𝐒𝐮𝐜𝐜𝐞𝐬𝐬:VINTRA’24: Cyber Threat Hunt! 🎉 
+
+The OWASP KARE Student Chapter recently organized a highly engaging event titled Cyber Threat Hunt as part of the Vintra event series. The competition was designed to test and enhance participants' cybersecurity skills through two challenging rounds.
+
+•⁠ ⁠The first round, Decrypt Hunt, focused on key cybersecurity concepts, including **password cracking, **phishing, and **decryption techniques. 
+•⁠ ⁠The second round involved vulnerable machine cracking, where participants were tasked with identifying and exploiting vulnerabilities in a simulated environment.
+
+The event saw the enthusiastic participation of 100 students, who competed in teams of four. Out of these, 40 students demonstrated exceptional knowledge and successfully qualified for the second round. 
+
+Participants were evaluated by Dr. K. Venkatesh and Dr. Manikumar on the following key criteria:
+•⁠ ⁠Security Remediation
+•⁠ ⁠Efficiency of Exploit
+•⁠ ⁠Vulnerability Discovery
+•⁠ ⁠Exploitation Skill
+•⁠ ⁠Clarity of Process
+
+The event was a great success and contributed to building a stronger foundation of cybersecurity knowledge among the students.
+
+
+
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="./assets/images/cybertherathunt.jpg" style="width: 60%; margin-right: 10%;">
+</div>
+<!-- <div style="display: flex; justify-content: space-between;">
+  <img src="" style="width: 60%; margin-right: 10%;">
+</div> -->
+
+
+
+
+
+## 11. 𝐅𝐥𝐚𝐠 𝐅𝐫e𝐧𝐳𝐲: 𝐑𝐨𝐮𝐧𝐝 𝟐 𝐨𝐟 𝐂𝐨𝐝𝐞𝐁𝐫𝐞𝐚𝐜𝐡 𝐁𝐚𝐭𝐭𝐥𝐞🚩.
   
   
 🌐 Event Recap: OWASP KARE is excited to share the incredible success of our event, 𝐅𝐥𝐚𝐠 𝐅𝐫𝐞𝐧𝐳𝐲: 𝐑𝐨𝐮𝐧𝐝 𝟐 𝐨𝐟 𝐂𝐨𝐝𝐞𝐁𝐫𝐞𝐚𝐜𝐡 𝐁𝐚𝐭𝐭𝐥𝐞!
