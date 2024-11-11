@@ -12,7 +12,7 @@ tags: OWASP KARE
 
 | **Roles**              | **Responsibilities**                                           | **Person(s)**                             |
 | ---------------------- | ------------------------------------------------------------- | ----------------------------------------- |
-| President             | Overall leadership and direction.                             | Nipun Negi, Faizan Manzoor Mir |
+| President             | Overall leadership and direction.                             | Nipun Negi, Faizan Manzoor Mir,Praveen Kumar |
 | Industrial Partner    | Cyber Security SME for IBM, AWS Certified, CompTIA Pentest+     | Mohsin Quresh                             |
 | Secretary             | Manages administrative tasks.                                  |  Sourav Kumar, U Prashant Kumar                          |
 | Vice President        | Assists the President and takes charge in their absence.      | V Bhanu Prathap Shourya                   |
