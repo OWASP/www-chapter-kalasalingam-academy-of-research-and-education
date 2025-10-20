@@ -1,0 +1,26 @@
+leaders:
+  - name: NC Brintha
+    email: nc.brintha@owasp.org
+  - name: Nipun Negi
+    email: nipun.negi@owasp.org
+    github: nipunnegi2
+  - name: Faizan Manzoor
+    email: faizan.manzoor@owasp.org
+    github: FaizanMir01
+location:
+  country: India
+  country_code: IN
+  region: Tamil Nadu
+  city: Srivilliputhur
+  latitude: 9.57492503987586
+  longitude: 77.67977741667497
+name: OWASP Kalasalingam Academy of Research and Education
+repositories:
+  - name: www-chapter-kalasalingam-academy-of-research-and-education
+    url: https://github.com/OWASP/www-chapter-kalasalingam-academy-of-research-and-education
+    description: OWASP Foundation Web Repository
+tags:
+  - OWASP
+  - KARE
+  - custom-tag-1
+website: https://owasp.org/www-chapter-kalasalingam-academy-of-research-and-education
